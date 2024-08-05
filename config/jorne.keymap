@@ -13,9 +13,6 @@
 #define RSE 2
 #define ADJ 3
 
-CONFIG_ZMK_DISPLAY=y
-CONFIG_ZMK_WIDGET_BATTERY_STATUS
-
 
 / {
     keymap {
