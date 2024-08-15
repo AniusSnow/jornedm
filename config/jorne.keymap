@@ -45,7 +45,7 @@
 &trans  &kp K_UNDO  &kp N1            &kp N2          &kp N3       &kp N4           &kp N5               &kp COMMA         &kp DOT            &kp SLASH  &kp SEMICOLON  &kp SQT   &kp CAPSLOCK     &mt RGUI F12
         &kp DELETE  &kp N6            &kp N7          &kp N8       &kp N9           &kp N0               &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS  &kp EQUAL      &kp RPAR  &mt RCTRL MINUS
         &bt BT_CLR  &kp LEFT_COMMAND  &kp LEFT_SHIFT  &kp N4       &kp C_VOLUME_UP  &kp C_VOLUME_DOWN    &kp N6            &kp N7             &kp N8     &kp N9         &kp N0    &kp RIGHT_SHIFT
-                                                      &lt ADJ TAB  &lt 3 N0         &trans               &trans            &lt 3 N0           &trans
+                                                      &lt ADJ TAB  &kp SPACE        &trans               &trans            &lt 3 N0           &trans
             >;
         };
 
